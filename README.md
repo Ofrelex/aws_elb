@@ -1,7 +1,4 @@
 # Configuring Auto Scaling with ALB using Launch Template
-Here’s a clear, **AWS Console–only** walkthrough to set up an Auto Scaling Group (ASG) behind an **Application Load Balancer (ALB)** using a **Launch Template**, plus how to test scaling.
-
----
 
 # Prerequisites (once)
 
